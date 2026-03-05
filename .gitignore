@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Data and Logs (Highly recommended to keep local)
+**/*.csv
+**/*.log
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/__pycache__/
+
+# Models (If they are large, usually tracked via Git LFS but for now ignoring)
+# models/*.pkl
+# models_check/*.pkl
+# models_test/*.pkl
+
+# MT5 specific
+*.mqh
+*.ex5

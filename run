@@ -1,0 +1,3 @@
+#!/bin/bash
+source /home/add/Desktop/Git/qlib_mql5_bot/venv/bin/activate
+python3 main_orchestrator.py
